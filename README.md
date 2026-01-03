@@ -10,8 +10,25 @@
 
 ![Static Badge](https://img.shields.io/badge/Instagram-105a7a?style=for-the-badge&logo=Instagram)  ![Static Badge](https://img.shields.io/badge/LinkedIn-105a7a?style=for-the-badge&logo=LinkedIn) ![Static Badge](https://img.shields.io/badge/Gmail-105a7a?style=for-the-badge&logo=Gmail&logoColor=F7F8FA) ![Static Badge](https://img.shields.io/badge/Discord-105a7a?style=for-the-badge&logo=Discord&logoColor=F7F8FA)
 
-[<img widht="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/java.svg" />](https://api.devicons.dev.br/icon?icons=C%2CJava%2CSpring%2CPostgreSQL%2CMongoDB%2CJavaScript%2CTypeScript%2CAngular%2CReact&size=48&theme=ligth&perline=5)
+</div>
+
+<div align="center">
+
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />   
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 
 </div>
 
+<div align="center">
+
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+          
+          
+</div>
 
