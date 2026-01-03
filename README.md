@@ -11,5 +11,5 @@
 
 </div>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalysonRamon&theme=algolia) |  |
-| :-: | :-: |
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalysonRamon&theme=algolia) 
+<img width="41%" heigth="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalysonRamon&layout=compact&hide_border=true&litle_color=105a7a&text_color=105a7a&bg_color=0d1117" />
